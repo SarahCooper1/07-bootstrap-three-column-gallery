@@ -1,10 +1,10 @@
 # Bootstrap three column gallery
 
-[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-blog-post-template) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
+[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-three-column-gallery) is a basic HTML template that uses the [Bootstrap](http://getbootstrap.com/)  framework. All key Bootstrap files have been included so you can begin creating layouts as needed.
 
 ## File structure
 
-[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-blog-post-template) uses the following file structure:
+[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-three-column-gallery) uses the following file structure:
 
 -------------
 
@@ -34,4 +34,4 @@
 	licence.md
 	readme.md
 
-[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-blog-post-template) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
+[Bootstrap three column gallery](https://github.com/russmaxdesign/07-bootstrap-three-column-gallery) was created by [Russ Weakley](https://twitter.com/russmaxdesign), [Max Design](http://maxdesign.com.au/). Copyright 2015 Max Design. See LICENCE.md for full details.
